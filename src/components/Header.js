@@ -8,6 +8,9 @@ function Header() {
      <Link to="/" className="active item">
        Home
      </Link>
+     <Link to="/todo" className="item">
+       Todo
+     </Link>
      <Link to="/messages" className="item">
        Messages
      </Link>
